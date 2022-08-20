@@ -1,11 +1,11 @@
 <html>
  <header>
   <h1>
-   👋 Hi, I’m @voronine
+   👋 Hi, I’m Yevhenii Voronin
   <//h1>
  </header>
  <div>
-   <p>
+   <p style: color: green>
    - 👀 I’m interested in programming (Java Script), chess, politics, snowboarding, surfing, travel and and all that is interesting.
    - 🌱 I’m currently learning "React", "Redux". 
    - 💞️ I’m looking to collaborate on in IT as a developer.
