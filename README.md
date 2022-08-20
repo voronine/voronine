@@ -5,7 +5,7 @@
   <//h1>
  </header>
  <div>
-   <p style: color: green>
+   <p>
    - 👀 I’m interested in programming (Java Script), chess, politics, snowboarding, surfing, travel and and all that is interesting.
    - 🌱 I’m currently learning "React", "Redux". 
    - 💞️ I’m looking to collaborate on in IT as a developer.
