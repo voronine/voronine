@@ -6,8 +6,8 @@
  </header>
  <div>
 
-   - 👀 I’m know (Html, Css, Java Script, JSX, Json, AJAX, Props, Fetch), 
-   - 🌱 I’m currently learning "React", "Redux". 
+   - 👀 I’m know (Html, Css, Java Script, JSX,XML, Json, AJAX, Props, Fetch,React,Redux,), 
+   - 🌱 I’m currently learning "Node", "Php". 
    - 💞️ I’m looking to collaborate on in IT as a developer.
 
    </div>
