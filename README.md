@@ -10,6 +10,7 @@
    - 🌱 I’m currently learning "Node", "Php". 
    - 💞️ I’m looking to collaborate on in IT as a developer.
 ![](https://github.com/voronine/voronine/blob/main/sertjs.jpg)
+![](https://github.com/voronine/voronine/blob/main/sertreact.jpg)
    </div>
   <footer>
     - 📫 How to reach me :
