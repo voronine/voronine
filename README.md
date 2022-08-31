@@ -1,21 +1,41 @@
-<html>
- <header>
-  <h1>
-   👋 Hi, I’m Yevhenii Voronin
-  <//h1>
- </header>
- <div>
+Евгений
+Воронин
+Киев • 35 лет
+Мужской пол
+________________________________________
+Контактная информация
+Телефон
++38 (099) 004-89-47
+Email
+voronine@ukr.net
+________________________________________
+Желаемая должность
+Frontend Java script developer React Node
+Тип занятости
+полная занятость
+Зарплата за месяц
+от $100
+________________________________________
+Навыки и достижения
+Редактировать
 
-   - 👀 I’m know (Html, Css, Java Script, JSX,XML, Json, AJAX, Props, Fetch,React,Redux,), 
-   - 🌱 I’m currently learning "Node", "Php". 
-   - 💞️ I’m looking to collaborate on in IT as a developer.
+
+
+HTML
+
+Flex-box, Grid, Bootstrap, адаптивная верстка под мобильные
+
+CSS SASS LESS
+JAVA SCRIPT
+AJAX , Local storage,POST,GET,ООП
+JQ Json JSX <\p>
+React
+Redux Node
+
+GITHub
+Photoshop
+Понимание php и wordpress.
+
 ![](https://github.com/voronine/voronine/blob/main/sertjs.jpg)
 ![](https://github.com/voronine/voronine/blob/main/sertreact.jpg)
-   </div>
-  <footer>
-    - 📫 How to reach me :
-   <h3>
-    - telegram:  @voronine
-   </h3> 
-  </footer>
-</html/>
+  
