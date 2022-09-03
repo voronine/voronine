@@ -13,8 +13,6 @@ ________________________________________
 Frontend Java script developer React Node
 Тип занятости
 полная занятость
-Зарплата за месяц
-от $100
 ________________________________________
 Навыки и достижения
 Редактировать
@@ -28,7 +26,7 @@ Flex-box, Grid, Bootstrap, адаптивная верстка под мобил
 CSS SASS LESS
 JAVA SCRIPT
 AJAX , Local storage,POST,GET,ООП
-JQ Json JSX <\p>
+JQ Json JSX 
 React
 Redux Node
 
