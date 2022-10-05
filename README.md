@@ -34,6 +34,6 @@ GITHub
 Photoshop
 Понимание php и wordpress.
 
-![](https://github.com/voronine/voronine/blob/main/sertjs.jpg)
-![](https://github.com/voronine/voronine/blob/main/sertreact.jpg)
+![](https://github.com/voronine/voronine/blob/main/js.jpg)
+![](https://github.com/voronine/voronine/blob/main/react.jpg)
   
