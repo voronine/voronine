@@ -18,14 +18,13 @@ ________________________________________
 
 
 
-HTML
-
-Flex-box, Grid, Bootstrap, адаптивная верстка под мобильные
-
-CSS SASS LESS
+HTML Адаптивная верстка,
+Flex-box, Grid, Bootstrap, 
+GULP WEBPuck 
+CSS SASS БЭМ
 JAVA SCRIPT
 AJAX , Local storage,POST,GET,ООП
-JQ Json JSX 
+Json JSX  XML
 React
 Redux Node
 
