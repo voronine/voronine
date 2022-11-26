@@ -22,7 +22,7 @@ ________________________________________
 
 HTML Адаптивная верстка,
 Flex-box, Grid, Bootstrap, 
-GULP WEBPuck 
+GULP WEBPack 
 CSS SASS БЭМ
 JAVA SCRIPT
 AJAX , Local storage,POST,GET,ООП
