@@ -18,3 +18,6 @@ RECT : JSX, Routing, SPA, Event, Ref & DOM, State, Props, Hooks, React, Redux, r
 My hobbies are programming, chess, politics, surfing, snowboarding, travelling, and everything else that might be interesting. Educated, cultured, educated, assiduous. I like to learn to develop, solve difficult problems, achieve success. Sociable, kind, friendly, always ready to help others.
 
 I live in Kyiv, right bank, Circus area, ready to move to any city.
+
+![](https://github.com/voronine/voronine/blob/main/js.jpg)
+![](https://github.com/voronine/voronine/blob/main/react.jpg)
